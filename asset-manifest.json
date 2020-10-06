@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ayans-chirpings/static/css/main.c159f0c5.chunk.css",
+    "main.js": "/ayans-chirpings/static/js/main.a0dd1421.chunk.js",
+    "main.js.map": "/ayans-chirpings/static/js/main.a0dd1421.chunk.js.map",
+    "runtime-main.js": "/ayans-chirpings/static/js/runtime-main.e4812fdc.js",
+    "runtime-main.js.map": "/ayans-chirpings/static/js/runtime-main.e4812fdc.js.map",
+    "static/css/2.7f83aeb6.chunk.css": "/ayans-chirpings/static/css/2.7f83aeb6.chunk.css",
+    "static/js/2.d4f0b32c.chunk.js": "/ayans-chirpings/static/js/2.d4f0b32c.chunk.js",
+    "static/js/2.d4f0b32c.chunk.js.map": "/ayans-chirpings/static/js/2.d4f0b32c.chunk.js.map",
+    "index.html": "/ayans-chirpings/index.html",
+    "precache-manifest.20ada1ae87f35b8721836bfb78a00bf4.js": "/ayans-chirpings/precache-manifest.20ada1ae87f35b8721836bfb78a00bf4.js",
+    "service-worker.js": "/ayans-chirpings/service-worker.js",
+    "static/css/2.7f83aeb6.chunk.css.map": "/ayans-chirpings/static/css/2.7f83aeb6.chunk.css.map",
+    "static/css/main.c159f0c5.chunk.css.map": "/ayans-chirpings/static/css/main.c159f0c5.chunk.css.map",
+    "static/js/2.d4f0b32c.chunk.js.LICENSE.txt": "/ayans-chirpings/static/js/2.d4f0b32c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4812fdc.js",
+    "static/css/2.7f83aeb6.chunk.css",
+    "static/js/2.d4f0b32c.chunk.js",
+    "static/css/main.c159f0c5.chunk.css",
+    "static/js/main.a0dd1421.chunk.js"
+  ]
+}
